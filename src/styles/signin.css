@@ -1,0 +1,76 @@
+.form{
+    position: relative;
+}
+
+.imgg{
+    position: absolute;
+    left: 0px;
+}
+
+.fromsingin{
+    right: 0px;
+    border-radius: 40px 40px 40px 40px !important;
+}
+
+.get{
+    margin-bottom: 80px;
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+.get .creative{
+    color: greenyellow;
+}
+
+.le
+{
+    top: -19px !important;
+}
+
+.lp{
+    top: 66px !important;
+}
+
+.linkforrem{
+    display: flex;
+    width: 78%;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.check{
+    width: 15px !important;
+    margin-right: 10px;
+}
+
+.check{
+    border: none !important;
+    box-shadow: none !important;
+    outline:none !important;
+    background-color: black !important;
+    border: 1px solid greenyellow !important;
+}
+
+.form-check-input:checked{
+    background-color: greenyellow !important;
+}
+
+.llabel{
+    color: white !important;
+}
+
+.btnn{
+    margin-top: 30px;
+}
+
+.iconbk{
+    margin-left: 20px;
+}
+
+.forget{
+    margin-bottom: 0px !important;
+    color: white !important;
+    text-decoration: none;
+}
+
+

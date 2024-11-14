@@ -1,0 +1,54 @@
+.body-content{
+    background-color: black !important;
+    height: calc(100vh - 95.5px);
+}
+
+.title{
+    padding-top: 50px;
+    font-size: 110px;
+    color: white;
+}
+
+.titlephoto{
+    width: 180px;
+    height: 80px;
+    margin: 0px 20px 30px;
+}
+
+.title .AI{
+    color: greenyellow;
+}
+
+.disc{
+    position: fixed;
+    left: 380px;
+    text-align: center;
+}
+
+.disc li{
+    list-style: none;
+    color: gray;
+    margin-top: 25px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.getstart{
+    margin-top: 30px;
+    width: 210px;
+    height: 50px;
+    border: none;
+    background: -webkit-linear-gradient(right,rgb(184, 247, 58),rgb(75, 144, 75));
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+.getstart:hover{
+    opacity: 0.9;
+}
+
+.linksignup{
+    text-decoration: none;
+    color: white;
+}

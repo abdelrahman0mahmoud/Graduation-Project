@@ -1,0 +1,73 @@
+.navbar{
+    background-color: black !important;
+    padding-top: 40px !important;
+}
+
+.logo{
+    font-weight: bold;
+    color: white !important;
+    font-size: 25px !important;
+    
+}
+
+.logotitle{
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+
+.links li a{
+    color: white !important;
+    font-size: 18px;
+    padding: 5px 10px !important;
+    margin-right: 10px !important;
+    font-weight: 500;
+}
+
+.logo:hover,
+.links li a:hover{
+    color: white;
+    opacity: 0.8;
+}
+
+
+.button{
+    
+    border: 1px solid;
+    border-radius: 18px;
+    margin-right: 15px;
+    font-weight: bold;
+    color: white;
+}
+
+.login{
+    background-color: black;
+    border-color: yellowgreen;
+    padding: 8px 28px;
+    font-size: 18px;
+}
+
+/* .login:hover{
+    background: -webkit-linear-gradient(right,yellowgreen,rgb(43, 198, 43));
+    border: none;
+} */
+
+
+
+.Sign{
+    padding: 10px 25px;
+    background: -webkit-linear-gradient(right,yellowgreen,rgb(43, 198, 43));
+    border: none;
+    text-decoration: none;
+}
+
+.Sign:hover,
+.login:hover{
+    opacity: 0.9;
+}
+
+/* .Sign:hover{
+    background: -webkit-linear-gradient(right,rgb(0, 0, 0),rgb(0, 0, 0));
+    border: 1px solid yellowgreen;
+} */
